@@ -2,6 +2,15 @@
 
 [<U>[ velog 글 바로 가기 ]</U>](https://velog.io/@doyeon789/series/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9D%B4%EB%A6%84-%EB%AF%B8%EC%A0%95)
 
+
+### 2026-04-29
+
+👉 [[MediaPipe-RaspberryPi-Q] 4일차. Pose Landmarker 분석](https://velog.io/@doyeon789/MediaPipe-RaspberryPi-Q-4%EC%9D%BC%EC%B0%A8.-%EB%AA%A8%EB%8D%B8-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C)
+
+**내용** : Mediapipe github clone, pose landmaker 코드 분석
+
+---
+
 ### 2026-04-23
 
 👉 [[MediaPipe-RaspberryPi-Q] 3일차. 라즈베리파이 분석](https://velog.io/@doyeon789/On-device-Pose-Optimization-3%EC%9D%BC%EC%B0%A8.-%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4-%EB%B6%84%EC%84%9D)
