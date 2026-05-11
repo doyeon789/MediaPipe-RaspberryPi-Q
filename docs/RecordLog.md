@@ -2,6 +2,13 @@
 
 [<U>[ velog 글 바로 가기 ]</U>](https://velog.io/@doyeon789/series/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9D%B4%EB%A6%84-%EB%AF%B8%EC%A0%95)
 
+### 2026-05-11
+
+👉 [[MediaPipe-RaspberryPi-Q] 5일차. 기본 환경 설정](https://velog.io/@doyeon789/MediaPipe-RaspberryPi-Q-5%EC%9D%BC%EC%B0%A8.-%EA%B8%B0%EB%B3%B8-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95)
+
+**내용** : 라이브러리 없데이트, 파일 정리, tflite, onnx
+
+---
 
 ### 2026-04-29
 
